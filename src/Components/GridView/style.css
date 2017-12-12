@@ -1,0 +1,19 @@
+
+.layout_header {
+    margin-left: 10px;
+    background-color: #77777a;
+    border-radius: 10px;
+    height:40px;
+    padding-top:5px;
+    padding-left:10px;
+    font-size: 20px;
+}
+.layout_footer {
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 10px;
+    height:40px;
+    padding-top:5px;
+    padding-left:10px;
+    font-size: 12px;
+}
